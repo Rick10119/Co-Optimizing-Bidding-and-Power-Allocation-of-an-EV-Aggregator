@@ -54,5 +54,5 @@ cal_profit;
 
 save("../results/result_minDeg.mat", "actualProfit","actualCost", ...
     "Bid_P_rev","Bid_R_rev","Bid_P_init","Bid_R_init", ...
-    "actualEnergy","actualMil","P_alloc","P_unbal");
+    "actualEnergy","actualMil","P_alloc");
 
