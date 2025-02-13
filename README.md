@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e4b9800e-41d6-4a29-9a86-61b96b83bc3b)
+
+
 # lyu_co-optimizing_2023_tsg
 Data and code for my paper "Co-Optimizing Bidding and Power Allocation of an EV Aggregator Providing Real-Time Frequency Regulation Service."
 
