@@ -8,6 +8,8 @@ Citation: R. Lyu, H. Guo, K. Zheng, M. Sun, and Q. Chen, "Co-Optimizing Bidding 
 
 ### 项目简介
 
+video: https://www.bilibili.com/video/BV1u3QDYFEKi/?vd_source=18e4b7b95b505bbe9bf571ca4ff73d55
+
 这个GitHub仓库包含了与论文相关的代码，旨在提供编程思路和参考代码，以便解决问题或比较方法。请注意，这些代码主要作为参考，而不是一键运行并获得与论文完全相同的结果。仓库将会持续更新，而论文则不会。
 
 ### Introduction
