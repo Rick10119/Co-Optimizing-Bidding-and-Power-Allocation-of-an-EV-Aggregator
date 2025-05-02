@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/e4b9800e-41d6-4a29-9a86-61b96b83bc3b)
 
 
-# lyu_co-optimizing_2023_tsg
+# Optimizing Bidding and Power Allocation
 Data and code for my paper "Co-Optimizing Bidding and Power Allocation of an EV Aggregator Providing Real-Time Frequency Regulation Service."
 
 Citation: R. Lyu, H. Guo, K. Zheng, M. Sun, and Q. Chen, "Co-Optimizing Bidding and Power Allocation of an EV Aggregator Providing Real-Time Frequency Regulation Service," in IEEE Transactions on Smart Grid, vol. 14, no. 6, pp. 4594-4606, Nov. 2023, doi: 10.1109/TSG.2023.3252664.
